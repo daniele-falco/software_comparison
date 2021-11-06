@@ -19,7 +19,7 @@ library(ggplot2)
 
 
 #SIMULATION OF DATA
-
+set.seed(423156)
 N <- 1000 # number of elements in the dataset
 # simulate covariates 
 

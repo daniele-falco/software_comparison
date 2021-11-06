@@ -19,6 +19,7 @@ library(ggplot2)
 
 
 #SIMULATION OF DATA
+set.seed(431234)
 N=1000 #number of observations
 
 H=4

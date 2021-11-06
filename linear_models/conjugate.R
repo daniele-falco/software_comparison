@@ -19,6 +19,7 @@ library(extraDistr)
 
 
 ####################SIMULATION OF DATA
+set.seed(1)
 N=100 #number of observations
 K<-4  #length of our parameters
 

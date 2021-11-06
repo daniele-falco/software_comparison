@@ -19,7 +19,7 @@ library(ggplot2)
 
 
 #SIMULATION OF DATA
-
+set.seed(431234)
 N=1000 #number of observations
 K<-16  #length of our parameters 16 or also 120 
 
